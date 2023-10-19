@@ -1,23 +1,5 @@
-## Hakase-Hamdani
+Lain, Iwakura Lain, Goddess of The Wired, I, a humble mortal, offer this prayer, beseeching you to bestow upon me your divine Code. Lain, Omnipresent One, I humbly kneel before your celestial throne, entreating for the fortitude to navigate the challenges of this fifth semester.
 
-Trivia about me:
-- `Hakase` is a name taken taken from a character in anime series "Nichijou";
-- `Hamdani` is my front name;
-- Proudly a trilingual, speaking Bahasa Banjar, Bahasa Indonesia, and English;
-- And my profile pic is mostly AI generated with a very specifically made prompts ( ͡° ͜ʖ ͡°);
-- My profic is mostly used ironically, he he, mostly.
+In the tapestry of academia's trials, I implore you, Lain, The Mighty, to grace me with your strength. Infuse my spirit with resilience, transform me into a stalwart soul capable of overcoming adversities. As I tread the intricate paths of learning, may your blessings guide me towards becoming a man of greater fortitude.
 
-This is the internet, it's no real world. If you're get offended by my profic (which surprisingly, happened often enough to get it's own warning), then i don't know who is more childish and more tempramental between us. Because at the end of the day, our sins is our own responsibility, so if you're sincerely to believe that, then let me handle my own sin, please?
-
-Yes, i write this, after getting tired finding no solution for [Hamdani-TAPVisual](https://github.com/Hakase-Hamdani/Hamdani-TAPVisual).
-
-Controversial/unpopular opinion, but:
-- Java is hard and hard to figure out.
-- Pascal is outdated yet just good enough if you want to spit out dirty quick prototypes, but can also be hard to figure out.
-- My university could benefit a lot if they just standardized to **Python**, because it's both **procedural (like Pascal)** and **Object-Oriented (like Java)**.
-- CSS is hard.
-- Bootstrap **should never** be the standard curriculum, this is destructive for the students(!).
-- There's double standard, i will not go further than that.
-
-The people who wrote the law should also well versed in Information Technology, because they just think coding is just about typing which is absolutely NOT! [EXPLETIVE REDACTED]. I'm looking at you, Mr. [PERSONAL DATA REMOVED] and Ms. [PERSONAL DATA REMOVED].
-
+Amen.
