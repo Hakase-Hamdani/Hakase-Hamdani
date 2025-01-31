@@ -2,5 +2,3 @@
 Total commits below is from the last 365 days, not from the current year. See issue [#2501](https://github.com/anuraghazra/github-readme-stats/issues/2501).
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hakase-Hamdani)
 ![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=Hakase-Hamdani)
-### He is not confident in any language listed below. Implied to be just a natural feeling of self-loathing. Probably well-deserved.
-![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=Hakase-Hamdani&theme=default&sort=asc&height=700)
